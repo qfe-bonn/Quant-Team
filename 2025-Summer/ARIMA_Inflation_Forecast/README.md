@@ -1,1 +1,1 @@
-# ARIMA_Inflation_Forecast
+# ARIMA Inflation Forecast
